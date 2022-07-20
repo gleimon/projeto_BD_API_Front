@@ -12,7 +12,7 @@ API de Estudantes irá utilizar quatro métodos HTTP definidos abaixo:
 - Listar todos os estudantes - @GetMapping
 - Atualizar detalhes de um estudante - @PutMapping
 - Remover um estudante pelo ID - @DeleteMapping
-Pode-se ver como a API se comporta na prática utilizando o Postman.
+- Pode-se ver como a API se comporta na prática utilizando o Postman.
 
 ### Status do Projeto
 - O back e o front já estão funcionais, sendo necessário realizar algumas melhorias.
