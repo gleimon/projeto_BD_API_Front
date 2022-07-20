@@ -7,8 +7,7 @@ O projeto consiste na construção de um banco de dados, de uma API e do Front E
 Por meio da API construída é possível realizar um CRUD e conectar com o BD.
 
 ### Status do Projeto
-- Em desenvolvimento. 
-- O back e o front estão funcionais, sendo necessário realizar algumas melhorias.
+- O back e o front já estão funcionais, sendo necessário realizar algumas melhorias.
 
 ### Funcionalidade do Projeto
 - Funcionalidade 1 - CREATE: por meio da aplicação web é possível cadastrar estudantes e seu endereço no banco de dados.
