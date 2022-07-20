@@ -3,18 +3,8 @@
 ## Projeto Banco de Dados_API_Front End
 
 ### Descrição do Projeto
-O projeto consiste na construção de um banco de dados,de uma API e do Front End. 
+O projeto consiste na construção de um banco de dados, de uma API e do Front End. 
 Por meio da API construída é possível realizar um CRUD e conectar com o BD.
-
-### Técnicas e Tecnologias utilizadas:
-- MySQL 8, 
-- JAVA 17, 
-- Spring Boot 2.7.1, 
-- JPA,
-- HTML5,
-- CSS3,
-- Javascript,
-- etc.
 
 ### Status do Projeto
 - Em desenvolvimento. 
